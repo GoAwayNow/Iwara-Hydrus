@@ -6,7 +6,7 @@ Made using Tampermonkey v4.13.
 1. Install a userscript manager if you don't have one.  
 [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) for Chromium-based browsers.  
 [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) for Firefox (untested).
-2. [Click here to install](https://github.com/GoAwayNow/Iwara-Hydrus/raw/master/iwarahydrus.user.js) this userscript.
+2. [Click here to install](https://github.com/GoAwayNow/Iwara-Hydrus/raw/main/iwarahydrus.user.js) this userscript.
 
 ## Configuration
 This userscript uses [GM_config](https://github.com/sizzlemctwizzle/GM_config/) to make configuration simple and easy.  
