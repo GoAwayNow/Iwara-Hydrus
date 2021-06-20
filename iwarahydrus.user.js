@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name         Iwara Hydrus
 // @namespace    https://twitter.com/goawaynowgan
-// @version      1624211422
+// @version      1624211592
 // @description  Send Iwara stuff to Hydrus Network
 // @author       Ganbat
 // @match        https://ecchi.iwara.tv/videos/*
 // @icon         https://www.google.com/s2/favicons?domain=iwara.tv
-// @updateURL    https://github.com/GoAwayNow/Iwara-Hydrus/raw/master/iwarahydrus.user.js
-// @downloadURL  https://github.com/GoAwayNow/Iwara-Hydrus/raw/master/iwarahydrus.user.js
+// @updateURL    https://github.com/GoAwayNow/Iwara-Hydrus/raw/main/iwarahydrus.user.js
+// @downloadURL  https://github.com/GoAwayNow/Iwara-Hydrus/raw/main/iwarahydrus.user.js
 // @supportURL   https://github.com/GoAwayNow/Iwara-Hydrus/issues
 // @require      https://openuserjs.org/src/libs/sizzle/GM_config.js
 // @require      http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js
