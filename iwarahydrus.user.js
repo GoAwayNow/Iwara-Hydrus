@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Iwara Hydrus
 // @namespace    https://twitter.com/goawaynowgan
-// @version      1624211592
+// @version      1624190959
 // @description  Send Iwara stuff to Hydrus Network
 // @author       Ganbat
 // @match        https://ecchi.iwara.tv/videos/*
@@ -10,7 +10,6 @@
 // @downloadURL  https://github.com/GoAwayNow/Iwara-Hydrus/raw/main/iwarahydrus.user.js
 // @supportURL   https://github.com/GoAwayNow/Iwara-Hydrus/issues
 // @require      https://openuserjs.org/src/libs/sizzle/GM_config.js
-// @require      http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js
 // @grant        GM_getValue
 // @grant        GM_setValue
 // @grant        GM_addStyle
@@ -120,7 +119,7 @@ if (GM_config.get("HyCatTags")){
         hydrusSend.service_names_to_additional_tags[GM_config.get("HyTagService")].push(vidCategories[indexVidCat].innerText);
     }
 }
-console.log(JSON.stringify(hydrusSend));
+//console.log(JSON.stringify(hydrusSend));
 
 var configButton = document.createElement('a');
 configButton.innerHTML = '<img src="'+hydruslogo+'">';
